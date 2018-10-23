@@ -1,5 +1,5 @@
 def reverse_each_word(string)
   string = "string"
-  "string".split
+  "olleH ,ereht dna woh era? uoy".split
   string.reverse
 end
