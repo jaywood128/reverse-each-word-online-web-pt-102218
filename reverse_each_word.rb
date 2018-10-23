@@ -1,6 +1,6 @@
 def reverse_each_word(string)
-  string = "string"
-  "olleH ,ereht dna woh era? uoy".split
-  string.reverse
-  string.array
+  string = "Hello, there and how are you?"
+  array = string.split
+  reverse = array.reverse
+  reverse.join
 end
